@@ -8,7 +8,7 @@ import ProductCard from './components/ProductCard';
 
 import './App.css';
 
-const API_BASE = "http://localhost:5000/api/v1/products";
+const API_BASE = "https://vector-backend-x57b.vercel.app/api/v1/products";
 
 const CATEGORY_IMAGES = {
   'Books': [
