@@ -9,7 +9,7 @@ import ProductCard from './components/ProductCard';
 import './App.css';
 
 
-const API_BASE = "/api/v1/products";
+const API_BASE = "https://vector-backend-gilt.vercel.app/api/v1/products";
 
 const CATEGORY_IMAGES = {
   'Books': [
